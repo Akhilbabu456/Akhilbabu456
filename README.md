@@ -47,12 +47,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akhilbabu456/Akhilbabu456/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akhilbabu456/Akhilbabu456/output/generate-snake-game-from-github-contribution-grid" />
   
   <br/><br/><br/>
 </div>
-
-<hr/>
 
 <h3 align="left">Stars⭐</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilbabu456&layout=compact&theme=dark" alt=Akhilbabu456 />
