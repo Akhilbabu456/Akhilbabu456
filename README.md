@@ -43,14 +43,6 @@
 <br/>
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake animation](https://github.com/Akhilbabu456/Akhilbabu456/blob/output/github-contribution-grid-snake2.svg)
-  
-  <br/><br/><br/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Stars⭐</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilbabu456&layout=compact&theme=dark" alt=Akhilbabu456 />
 
