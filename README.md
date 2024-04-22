@@ -46,7 +46,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake animation](https://github.com/<seu Akhilbabu456>/<seu Akhilbabu456>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/Akhilbabu456/Akhilbabu456/blob/output/github-contribution-grid-snake2.svg)
   
   <br/><br/><br/>
 </div>
