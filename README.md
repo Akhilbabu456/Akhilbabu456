@@ -54,8 +54,7 @@
 <div align="center">
 <a href="https://github.com/Akhilbabu456">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akhilbabu456&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akhilbabu456&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhilbabu456&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akhilbabu456&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilbabu456&theme=2077" height="180em" />
 </div>
