@@ -10,11 +10,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><div align="center">
  
- 🔭 I’m currently working on **Threads Clone**
+ 
  
  🌱 I’m currently learning **AWS**
 
-💬 Ask me about **Node.js, React, Express.js or anything [here](https://github.com/Akhilbabu456/Akhilbabu456/issues)**
+
 
 ⚡ Fun fact **The first programmer was the daughter of a mad poet**
 
